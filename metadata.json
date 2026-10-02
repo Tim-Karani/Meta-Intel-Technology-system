@@ -1,0 +1,6 @@
+{
+  "name": "Meta Intel Technologies - Field Operations Platform",
+  "description": "Field Operations and Retail Execution Management Platform for campaigns, field workforce, attendance, visits, merchandising, OSA, and client reporting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
